@@ -1,4 +1,5 @@
-PyCity Schools Analysis
+PyCity Schools Analysis - Yamileth Cova 
+
  Analysis has multiples perspectives depending on what type of information you are looking for: 
  
  1)We can say that charter schools are more successful due they have a higher percentage rate of their students passing overall (math and reading) with only half of the budget; take as an example Bailey High School - District School vs Cabrera High School - Charter School, even when the district's school gets more budget and spend more per student the charter school in overall perform better. 
